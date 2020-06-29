@@ -104,7 +104,7 @@ ex: nomedousuario@**hostname**
 
 **Sem fio:** `pacman -S network-manager-applet networkmanager wpa_supplicant wireless_tools`
 
-**Pacotes básicos** `pacman -S dialog vim xorg xorg-serve curl wget git sudo mesa libgl`
+**Pacotes básicos** `pacman -S dialog vim xorg xorg-server curl wget git sudo mesa libgl xfce4-notifyd gnome-keyring`
 
 > **Nota:** Adicione o que desejar ou retire se não for utilizar algo, estou resumindo minha instalação aqui.
     
