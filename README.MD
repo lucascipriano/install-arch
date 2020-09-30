@@ -35,7 +35,7 @@ Esse é um resumo, se tiver dúvidas, leia a documentação!
 |--|--|
 | **BIOS BOOT** | **500M**  /dev/sda1| 
 | **RAIZ** | **100/200G** /dev/sda2|
-| **HOME** | **TODO DISCO - SWAP** /dev/sda3|
+| **HOME** | **TODO DISCO ** /dev/sda3|
 | **SWAP** | **4 A 8 GB** /dev/sda4|
 
 **Formatando as partições:**
