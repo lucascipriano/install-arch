@@ -106,6 +106,8 @@ ex: nomedousuario@**hostname**
 
 **Pacotes básicos** `pacman -S dialog vim xorg xorg-server curl wget git sudo mesa libgl xfce4-notifyd gnome-keyring`
 
+**Gerenciador de login** `pacman -S lightdm-gtk-greeter-settings lightdm-gtk-greeter lightdm`
+
 > **Nota:** Adicione o que desejar ou retire se não for utilizar algo, estou resumindo minha instalação aqui.
     
 **Forçando a inicialização da internet e gerenciador de interface**
