@@ -91,7 +91,7 @@ ex: nomedousuario@**hostname**
 
 **hosts:** `nano /etc/hosts` e adicione as três linhas a baixo
 
-    127.0.0.1	localhost.localdomain	loclhost
+    127.0.0.1	localhost.localdomain	localhost
     
     ::1	localhost.localdomain	loclhost
     
